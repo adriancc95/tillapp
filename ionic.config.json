@@ -1,0 +1,8 @@
+{
+  "name": "Tillapp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "0d5c2fe2"
+}
